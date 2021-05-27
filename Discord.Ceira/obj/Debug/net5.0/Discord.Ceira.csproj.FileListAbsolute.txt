@@ -1,0 +1,12 @@
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/bin/Debug/net5.0/Discord.Ceira.deps.json
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/bin/Debug/net5.0/Discord.Ceira.dll
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/bin/Debug/net5.0/ref/Discord.Ceira.dll
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/bin/Debug/net5.0/Discord.Ceira.pdb
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.GeneratedMSBuildEditorConfig.editorconfig
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.AssemblyInfoInputs.cache
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.AssemblyInfo.cs
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.csproj.CoreCompileInputs.cache
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.dll
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/ref/Discord.Ceira.dll
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.pdb
+/home/userx/RiderProjects/Discord.Ceira/Discord.Ceira/obj/Debug/net5.0/Discord.Ceira.csproj.AssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.Ceira", "Discord.Ceira\Discord.Ceira.csproj", "{89B3565B-C8B0-43E7-B0F9-D562CBB3D12E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.Ceira.Tests", "Discord.Ceira.Tests\Discord.Ceira.Tests.csproj", "{ABADC2F6-0CDD-40F2-AADB-77DC75C6CBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B3565B-C8B0-43E7-B0F9-D562CBB3D12E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B3565B-C8B0-43E7-B0F9-D562CBB3D12E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B3565B-C8B0-43E7-B0F9-D562CBB3D12E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B3565B-C8B0-43E7-B0F9-D562CBB3D12E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABADC2F6-0CDD-40F2-AADB-77DC75C6CBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABADC2F6-0CDD-40F2-AADB-77DC75C6CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABADC2F6-0CDD-40F2-AADB-77DC75C6CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABADC2F6-0CDD-40F2-AADB-77DC75C6CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
